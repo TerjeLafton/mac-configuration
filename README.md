@@ -65,8 +65,9 @@ This is not really made to be super useful for anyone else, but might give other
 
 #### **Fish**
 1. Run `fish`in the terminal to start the fish shell
-2. Set Fish as the default shell: `chsh -s /usr/local/bin/fish`
-3. Run `fish_config``
+2. Add `/usr/local/bin/fish` to the `/etc/shells`
+3. Set Fish as the default shell: `chsh -s /usr/local/bin/fish`
+4. Run `fish_config``
     1. Set theme: Tomorrow
     2. Set prompt: Arrow
 
