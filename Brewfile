@@ -6,6 +6,7 @@ cask_args appdir: "~Applications", require_sha: true
 brew "mas"
 brew "git"
 brew "fish"
+brew "transmission-cli"
 
 # Casks
 cask "1password"
@@ -17,3 +18,4 @@ cask "iterm2"
 # App Store
 mas "magnet", id: 441258766
 mas "spark", id: 1176895641
+mas "amphetamine", id: 937984704
