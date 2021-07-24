@@ -14,8 +14,9 @@ cask "visual-studio-code"
 cask "obsidian"
 cask "docker"
 cask "iterm2"
+cask "discord"
 
 # App Store
 mas "magnet", id: 441258766
-mas "spark", id: 1176895641
+mas "spark", id: 11768O95641
 mas "amphetamine", id: 937984704
