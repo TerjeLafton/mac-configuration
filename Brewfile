@@ -10,6 +10,7 @@ brew "transmission-cli"
 
 # Casks
 cask "1password"
+cask "alfred"
 cask "visual-studio-code"
 cask "obsidian"
 cask "docker"
